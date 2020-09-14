@@ -1,0 +1,15 @@
+{
+  "name": "joy-club-blog-back",
+  "version": "1.0.0",
+  "description": "joy-club-blog backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "joy-club-blog-back"
+  },
+  "author": "Serge Maïkere",
+  "license": "ISC"
+}
